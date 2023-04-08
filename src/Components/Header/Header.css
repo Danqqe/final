@@ -1,0 +1,30 @@
+.mainHeader {
+    max-width: 1080px;
+    margin: 0 auto 0 auto;
+    background-color: white;
+    border-radius: 20px 20px 0 0;
+    padding: 0 45px;
+    background-color:black;
+}
+
+.leftHeader {
+    display: flex;
+    margin-top:5px;
+}
+
+.leftHeader .leftHeaderText {
+    display: flex;
+    flex-direction: column;
+}
+.headertext{
+    font-size: small;
+    margin-left: 5px;
+}
+.headertext1{
+    font-size: large;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.headerpodtext{
+    margin-left: 10px;
+}
